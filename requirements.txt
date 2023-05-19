@@ -1,5 +1,5 @@
 numpy
 flask
-pickle
+pickle-mixin
 pandas
 sklearn
